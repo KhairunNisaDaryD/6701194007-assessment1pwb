@@ -2,3 +2,4 @@
 
 Nama : KHAIRUN NISA DARY D.
 NIM : 6701194007
+**Asessment 1**
